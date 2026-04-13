@@ -15,3 +15,7 @@ console.log(new_name);
 //* 3. Const :- This can't be redeclarable late only be used one at time 
 const naming ="variables";
 console.log(naming);
+
+
+//? To console more than one thing we could use tabular form 
+console.table([admin,new_name,naming]);
