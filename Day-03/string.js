@@ -13,4 +13,4 @@ console.log(gameName) // This will give output as an object [String:'Rishabh'] l
 
 // you can access them 
 console.log(gameName[0]);
-console.log(gameName.toUpperCase());
+console.log(gameName.toUpperCase()); 
