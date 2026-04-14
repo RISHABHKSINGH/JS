@@ -19,6 +19,6 @@ console.log(null>=0);//true
 
 
 
-// This happens because Comparisons convert null to number, treating it as 0 that's why (3) null>=0 is true and (1)null>0 is false
+// This happens because Comparisons convert null into number, treating it as 0 that's why (3) null>=0 is true and (1)null>0 is false
 
 
