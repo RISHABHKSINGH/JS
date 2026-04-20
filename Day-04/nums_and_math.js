@@ -22,6 +22,7 @@ console.log(Math.ceil(4.8));
 console.log(Math.floor(4.8));
 console.log(Math.min(4,5,63,2,-1));
 console.log(Math.max(4,5,63,2,-1));
+console.log(Math.max(4,5,63,2,-12));
 
 
 console.log(Math.random());// This will give you any number i.e random number in between 0 and 1 always
