@@ -25,5 +25,5 @@ console.log(Math.max(4,5,63,2,-1));
 console.log(Math.max(4,5,63,2,-12));
 
 
-console.log(Math.random());// This will give you any number i.e random number in between 0 and 1 always
+console.log(Math.random());// This will give you any number random number in between 0 and 1 always
 // If  you need random number greater than that you need to perform certain operation and twick it a bit 
