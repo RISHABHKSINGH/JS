@@ -1,0 +1,8 @@
+// Lexical scope 
+
+
+
+
+
+
+// Clousers
