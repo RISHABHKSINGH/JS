@@ -1,4 +1,4 @@
-// Lexical scope
+// 1.  Lexical scope
 
 function outerfunction() {
   let new_name = "Rks";
